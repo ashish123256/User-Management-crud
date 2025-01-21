@@ -3,7 +3,7 @@
 
 This is USER-MANAGEMENT CRUD APPLICATION
 
-# Website Link - https://admin-panel-net.netlify.app/
+# Website Link - 
 
 
 ## Features
@@ -24,7 +24,7 @@ This is USER-MANAGEMENT CRUD APPLICATION
 Clone the project
 
 ```bash
-  git clone https://github.com/ashish123256/
+  git clone https://github.com/ashish123256/User-Management-crud
 ```
 
 
